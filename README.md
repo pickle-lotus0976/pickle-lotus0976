@@ -6,4 +6,4 @@
   
 - 📧 sahashubhrakamal@gmail.com
 
-Feel free to reach out—I’m always up for collaboration or a quick deep‑learning chat!
+Feel free to reach out—I’m always up for collaboration!
