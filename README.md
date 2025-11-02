@@ -39,8 +39,7 @@ Here are some of the technologies and languages I work with:
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pickle-lotus0976&show_icons=true&theme=dracula" alt="Shubhro's GitHub Stats">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pickle-lotus0976&layout=compact&theme=dracula&hide=jupyter%20notebook,emacs%20lisp" alt="Top Languages">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=pickle-lotus0976&show_icons=true&theme=dracula" alt="Shubhro's GitHub Stats">
 </p>
 
 <br>
