@@ -38,8 +38,6 @@ Here are some of the technologies and languages I work with:
 
 ## 📊 My GitHub Stats
 
-(These will update automatically! The username `pickle-lotus0976` is taken from your file path.)
-
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pickle-lotus0976&show_icons=true&theme=dracula" alt="Shubhro's GitHub Stats">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pickle-lotus0976&layout=compact&theme=dracula" alt="Top Languages">
