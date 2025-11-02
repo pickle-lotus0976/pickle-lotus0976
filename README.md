@@ -27,7 +27,7 @@ Here are some of the technologies and languages I work with:
     <img src="https://img.shields.io/badge/Assembly-A67F81?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Assembly Language">
 </p>
 
-#### Hardware Design (HDL) & AI
+#### Hardware Design & AI
 <p>
     <img src="https://img.shields.io/badge/Verilog-0A3069?style=for-the-badge&logo=databricks&logoColor=white" alt="Verilog">
     <img src="https://img.shields.io/badge/SystemVerilog-1D457C?style=for-the-badge" alt="SystemVerilog">
